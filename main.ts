@@ -7,5 +7,4 @@ const routes = [
 ]
 
 const server = Server(routes)
-
 export default server;
